@@ -4,7 +4,7 @@
 ### CS8803 Mobile Applications and Services Project - Summer semester 2016
 #### Team: Tidehunters
 #### Members: Tongzhe Zhang, Chong Guo, Kai Lu, Jiahao Luo
-#### Author：Jiahao Luo
+#### Author：Tongzhe Zhang
 
 ## Abstract
 This project is our team project for CS8803 in Summer semester, 2016 at Georgia Tech. This project requires us to develop two seperate platform and I am responsible for the Android development part of our application.
